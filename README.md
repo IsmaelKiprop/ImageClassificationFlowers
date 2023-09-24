@@ -37,6 +37,7 @@ To use this project:
 2. Install the required libraries:
 
 pip install -r requirements.txt
+
 3. Train the model:
 
 python train.py
