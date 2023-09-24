@@ -25,6 +25,9 @@ This project focuses on training a machine learning model to classify images of 
 
 8. **Prediction**: A script for making predictions on new images is provided. Users can input an image, and the model predicts whether it's a rose or a daisy.
 
+   ![image](https://github.com/IsmaelKiprop/ImageClassificationFlowers/assets/133222922/0bcee512-9a65-4e0f-ba7c-bf1abbd5abf6)
+
+
 ## Usage
 
 To use this project:
