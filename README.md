@@ -41,13 +41,19 @@ To use this project:
 
 pip install -r requirements.txt
 
+## Create a folder models
+
 3. Train the model:
 
 python train.py
 
+## \models\my_model.h5 will be generated.
+
 4. Make predictions:
 
 python predict.py --image path/to/your/image.jpg
+
+## Run visualize.py  to generate images predicting flower types
 
 5. Results
 
