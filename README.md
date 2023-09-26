@@ -1,6 +1,7 @@
 # Flower Image Classification
 
-![image](https://github.com/IsmaelKiprop/ImageClassificationFlowers/assets/133222922/c8f8a8f3-1da0-48dc-864f-4520668044ff)
+<img width="924" alt="image" src="https://github.com/IsmaelKiprop/ImageClassificationFlowers/assets/133222922/17144fb9-71c4-42ef-9399-800803574e2e">
+
 
 
 ## Overview
